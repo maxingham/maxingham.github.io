@@ -1,0 +1,7 @@
+- name: Dossing Around
+  percentage: 100
+  color: info
+
+- name: Sleeping
+  percentage: 100
+  color: success
