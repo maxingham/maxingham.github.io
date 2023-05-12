@@ -7,18 +7,18 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hey there, I'm **{{ site.author.name }}** :metal:,<br><br>
+I'm currently working as a website administrator (as well as a marketing assistant, systems administrator, and frequent printer botherer) at Henry Krank & Co in Leeds. I have an educational background in IT & Computer Networks and a keen personal interest in homelabbing and self hosted services/systems. I have had my <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-ifs.2019.0447">dissertation research published</a> in the IET Information Security academic journal, and graduated university with a high 1st Class Honours degree.
+<br><br>
+When I'm not working or ~~smacking~~ performing percussive maintenance on printing devices, I'll usually be tinkering with my home IT & server equipment, researching new self hosted services I can try out for myself, data hoarding, and listening to far too much music (and documenting all of it!). If you're curious to know more, read on.
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-<br />
-<div class="row">
-{% include about/skills.html title="Test Skills" source=site.data.test-skills %}
-</div>
+## This Website
 
+Placeholder
+
+
+## Work & Education
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline.html title="Education" source=site.data.timeline-education %}
 </div>
+<br>

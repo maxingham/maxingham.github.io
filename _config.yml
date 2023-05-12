@@ -1,9 +1,7 @@
 ### Site Settings ###
-title               : Max Ingham Test Title
+title               : Max Test Page
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Hyperborean elucidations from
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly, was "/portfolYOU"
 repository          : maxingham/maxingham.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -56,6 +54,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  Work:
+    output: true
+    permalink: /work/:name
 
 
 ### Disqus ###
@@ -85,6 +86,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "work"
     values:
       layout: "page"
   - scope:
