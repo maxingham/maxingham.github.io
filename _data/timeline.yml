@@ -1,22 +1,28 @@
-- title: Website Administrator, Henry Krank & Co
+- title: Multiple Roles, Henry Krank & Co
   from: 2019
-  to: Present
+  to: Present (Leeds)
   description: A family owned business that provides firearms, ammunition, antiques, and general sporting equipment to shooting enthusiasts and antiques collectors alike.
                While working here I have been responsible for all on-prem IT equipment as well as being in charge of all research, purchasing, documentation & aquisition of IT equipment for all departments. I have created and maintained
                various core marketing materials, and have spent more time than I'd like to count creating Excel dashboards and reports. Duties also include general site maintenance through Magento and Wordpress dashboards. <br><br>I was instrumental in the design and planning
-               of the new Henry Krank website launched in 2022, as I was the main point of technical contact for our contracted developers. Tasks included creating iterative designs/mock-ups and drafting feature requests to then work with the developers to bring them to fruition, daily liaising with the developers of our internal customised EPOS system and the web developers to coordinate the implementation and testing of proposed new features and functionality and data migration, and extensively testing completed development work and then reporting/logging any errors or changes that needed to be addressed, as well as ensuring reported issues are actioned to company standards. This also included extensive hands-on post-launch bug finding and ensuring they were resolved in a timely manner as to minimise impact on customer experience.
+               of the new Henry Krank website launched in 2022, as I was the main point of technical contact for our contracted developers. Read more <a href="/henrykrank/index.html">here</a>.
 
-- title: Student, Sheffield Hallam University
-  from: 2014
-  to: 2018
-  description: <b>Grade - BSc (Hons) 1st Class</b><br>Some relevant modules from my course include - 
-               Web Applications Development, Enterprise Applications Management, Professionalism and Communication, Network Server Management and Configuration, Network Fundamentals and Routing, Final Year Project.           
+- title: Website Adminstrator / Marketing Manager, Early Music Direct
+  from: 2019
+  to: 2022 (Leeds)
+  description: Early Music Direct was the brainchild of Richard Wood, an entrepreneur with a passion and long history for all things related to early music and early music instruments. I was able to help out with his new venture by aiding with setting up the business, populating the website and social media channels, performing market research, and liaising with multiple parties to coordinate work. Read more <a href="/earlymusicdirect/index.html">here</a>.
+
 
 - title: IT Support Engineer, G-Research
   from: 2016
-  to: 2016
+  to: 2016 (London)
   description: This was a brief stint for work experience while studying at university, day to day operations here were extremely sensitive and security was of paramount importance, both in terms of IT security and that of physical employee access to certain areas and secure zones of the building.
                The key tasks I performed here were account creation/manipulation in Active Directory, updating DNS records, updating systems, and troubleshooting issues raised as tickets and providing IT support to staff in various departments, from developers to quantitative analysts.
+
+- title: Student, Sheffield Hallam University
+  from: 2014
+  to: 2018 (Sheffield)
+  description: <b>Grade - BSc (Hons) 1st Class</b><br>Studied on the course <b>Computer Network Management and Design.</b> Some modules from my course include - 
+               Web Applications Development, Enterprise Applications Management, Professionalism and Communication, Network Server Management and Configuration, Network Fundamentals and Routing, Final Year Project.           
 
 - title: Student, Leeds City College
   description: Studied on the course <b>Computer Networking and Systems Support BTEC Extended Diploma</b> and finished with the grade <b>DDM (AAB)</b>.
